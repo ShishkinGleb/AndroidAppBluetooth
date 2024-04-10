@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#3100BCD4">
+    android:background="#3170A7AE">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView1"
